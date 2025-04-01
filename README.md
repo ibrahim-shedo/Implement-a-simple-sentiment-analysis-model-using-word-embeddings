@@ -58,5 +58,5 @@ python sentiment_analysis.py
 - Fine-tune hyperparameters for better accuracy.
 
 ## Author
-Developed by [Your Name].
+Developed by [Ibrahim Shedoh].
 
